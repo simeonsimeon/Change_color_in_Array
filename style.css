@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+div{
+    width: 300px;
+    height: 150px;
+    border: solid 1px gray;
+    margin-left: 40%;
+    margin-top: 5%;
+    border-radius: 7px;
+}
+div p{
+    font-size: 30px;
+    display: none;
+}
+div button{
+    padding: 10px;
+    margin-top: 40px;
+}
